@@ -16,3 +16,5 @@ class Executives {
         }
     }
 }
+
+module.exports = Executives;
